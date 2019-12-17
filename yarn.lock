@@ -1323,9 +1323,9 @@
   integrity sha512-u/SJDyXwuihpwjXy7hOOghagLEV1KdAST6syfnOk6QZAMzZuWZqXy5aYYZbh8Jdpd4escVFP0MvftHNDb9pruA==
 
 "@types/node@^12.0.0":
-  version "12.12.17"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.17.tgz#191b71e7f4c325ee0fb23bc4a996477d92b8c39b"
-  integrity sha512-Is+l3mcHvs47sKy+afn2O1rV4ldZFU7W8101cNlOd+MRbjM4Onida8jSZnJdTe/0Pcf25g9BNIUsuugmE6puHA==
+  version "12.12.18"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.18.tgz#8d16634797d63c2af5bc647ce879f8de20b56469"
+  integrity sha512-DBkZuIMFuAfjJHiunyRc+aNvmXYNwV1IPMgGKGlwCp6zh6MKrVtmvjSWK/axWcD25KJffkXgkfvFra8ndenXAw==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -1363,9 +1363,9 @@
   integrity sha512-l42BggppR6zLmpfU6fq9HEa2oGPEI8yrSPL3GITjfRInppYFahObbIQOQK3UGxEnyQpltZLaPe75046NOZQikw==
 
 "@types/testing-library__dom@*", "@types/testing-library__dom@^6.0.0":
-  version "6.10.0"
-  resolved "https://registry.yarnpkg.com/@types/testing-library__dom/-/testing-library__dom-6.10.0.tgz#590d76e3875a7c536dc744eb530cbf51b6483404"
-  integrity sha512-mL/GMlyQxiZplbUuFNwA0vAI3k3uJNSf6slr5AVve9TXmfLfyefNT0uHHnxwdYuPMxYD5gI/+dgAvc/5opW9JQ==
+  version "6.11.0"
+  resolved "https://registry.yarnpkg.com/@types/testing-library__dom/-/testing-library__dom-6.11.0.tgz#777e3ef44cb48f2430e3fad6a2053ec39004a5d3"
+  integrity sha512-qUmnGl6H0wajUaO3VCJJoAeN/bQwpUzCqE/hk96NiGjIh5H4b8LfmQTOj4cHfS/9hCwO0DJytC6osHYDYiouyA==
   dependencies:
     pretty-format "^24.3.0"
 
@@ -2479,10 +2479,15 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001010, caniuse-lite@^1.0.30001012:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001012:
   version "1.0.30001015"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001015.tgz#15a7ddf66aba786a71d99626bc8f2b91c6f0f5f0"
   integrity sha512-/xL2AbW/XWHNu1gnIrO8UitBGoFthcsDgU9VLK1/dpsoxbaD5LscHozKze05R6WLsBvLhqv78dAPozMFQBYLbQ==
+
+caniuse-lite@^1.0.30001010:
+  version "1.0.30001016"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001016.tgz#16ea48d7d6e8caf3cad3295c2d746fe38c4e7f66"
+  integrity sha512-yYQ2QfotceRiH4U+h1Us86WJXtVHDmy3nEKIdYPsZCYnOV5/tMgGbmoIlrMzmh2VXlproqYtVaKeGDBkMZifFA==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -3196,9 +3201,9 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
     cssom "0.3.x"
 
 csstype@^2.2.0:
-  version "2.6.7"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.7.tgz#20b0024c20b6718f4eda3853a1f5a1cce7f5e4a5"
-  integrity sha512-9Mcn9sFbGBAdmimWb2gLVDtFJzeKtDGIr76TUqmjZrw9LFXBMSU70lcs+C0/7fyCd6iBDqmksUcCOUIkisPHsQ==
+  version "2.6.8"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.8.tgz#0fb6fc2417ffd2816a418c9336da74d7f07db431"
+  integrity sha512-msVS9qTuMT5zwAGCVm4mxfrZ18BNc6Csd0oJAtiFMZ1FAx1CCvy2+5MDmYoix63LM/6NDbNtodCiGYGmFgO0dA==
 
 cyclist@^1.0.1:
   version "1.0.1"
